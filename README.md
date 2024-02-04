@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luckmark
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning HTML CSS and JavaScript
+- 🌱 I’m currently learning everything :))
 - 📫 How to reach me marcel.pasarica@gmail.com
 
 <!---
